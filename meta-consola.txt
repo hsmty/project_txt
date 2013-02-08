@@ -1,0 +1,35 @@
+**Descripción**
+
+Problema: Consolas de videojuegos viejas en desorden y desuso
+Solución: Hacer un mueble que contenga las consolas que permita usarlas con facilidad
+
+Inspiración: 
+
+[1] http://forum.arcadecontrols.com/index.php?topic=86352.0
+[2] http://fredrik-olsson.com/theslacker/
+[3] http://pseudomacro.wordpress.com/2012/04/29/petes-collection/
+[4] http://www.amazon.com/gp/product/B004K61QAS/ref=s9_simh_gw_p421_d0_i4?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=0H74KCP4EFE693MXBEBN&pf_rd_t=101&pf_rd_p=1389517282&pf_rd_i=507846
+[5] http://www.kudzuantiques.com/new-product-images/Z473.JPG
+[6] http://www.amazon.com/ViewHD-Premium-Audio-Extractor-Converter/dp/B00AHS8LD8/ref=sr_1_19?s=electronics&ie=UTF8&qid=1360343877&sr=1-19&keywords=hdmi+to+hdmi+%2B+audio
+
+
+1 switch es de encendido, 1perilla de volumen y 1 perilla de selección de consola.
+el indicador de que consola está activa es una luz que ilumina la consola en cuestión.
+
+el panel de control va oculto al estilo Motorola de los 50's [5]
+
+Hay una tele, conectada por HDMI encima del mueble.
+
+la señal de cada consola viaja asi
+
+{ consola }----->{switch de video[4]}--HDMI-->{extractor de audio HDMI[6]}---HDMI-->{TV}
+                                                                  |
+                                                                  |---fibra optica--->{Bocinas}
+
+[4] tiene control remoto por IR, la perilla puede activar un arduino que genere las señales correspondientes para activar cada entrada
+
+Los nichos para cada consola tienen una doble pared de fondo para contener el cableado necesario.
+
+Cada nicho tiene un ventilador de baja velocidad para ayudar a enfriar la consola y su fuente de poder.
+
+la consola tiene cableado de energia y luz integrados
