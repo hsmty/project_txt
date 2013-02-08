@@ -27,6 +27,7 @@ la señal de cada consola viaja asi
                                                                   |---fibra optica--->{Bocinas}
 
 [4] tiene control remoto por IR, la perilla puede activar un arduino que genere las señales correspondientes para activar cada entrada
+[7] tiene puerto rs232, al parecer otros switches profesionales tambien lo tienen para hacer la selección de puerto. tambien tiene salida rca
 
 Los nichos para cada consola tienen una doble pared de fondo para contener el cableado necesario.
 
