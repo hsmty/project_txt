@@ -12,3 +12,9 @@ compartir información, una de las características principales es que debe de s
 decentralizado y carecer de una autoridad predefinida, debe de tener la 
 capacidad de generar redes de confianza y expandirlas automáticamente. Se desea
 que tenga seguridad incorporada por diseño (SSH) y no por añadidura (HTTPS).
+
+## Propuesta de implementación
+
+Se propone implementarce utilizando microcontroladores, con el proposito de 
+implementar el protocolo a un nivel inferior y agnóstico de sistema operativo
+del cliente. Además es más divertido.
