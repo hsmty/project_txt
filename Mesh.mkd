@@ -1,0 +1,14 @@
+# Red de malla
+
+## Proposito
+
+Prueba de concepto y actividad de investigación sobre sobre redes, electrónica y
+computación.
+
+## Descripción
+
+Se planea implementar un sistema cableado de comunicación distribuido para
+compartir información, una de las características principales es que debe de ser
+decentralizado y carecer de una autoridad predefinida, debe de tener la 
+capacidad de generar redes de confianza y expandirlas automáticamente. Se desea
+que tenga seguridad incorporada por diseño (SSH) y no por añadidura (HTTPS).
