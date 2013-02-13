@@ -1,0 +1,5 @@
+Hacer un R2D2 a tamaño real. que se mueva
+
+existen tutoriales y kits, pero tambien hay modelos 3d que se pueden ajustar para imprimir.
+
+hay un proyecto de r2d2 con una raspberry
