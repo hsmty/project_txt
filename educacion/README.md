@@ -7,6 +7,12 @@ Selecciona la actividad que más te llame la atención.
 Lee detenidamente las instrucciones que se dan en la página de cada actividad.
 Pide los materiales necesarios y si asi lo requieres, ayuda a algún miembro.
 
+##Competencias permanentes
+Juegos con instalaciones permanentes que permiten a los visitantes pasar un buen
+rato y comparar sus resultados con los de otros visitantes anteriores.
+Pueden darse premios como membresias semanales, descuentos de cursos, kits etc.
+ 
+
 ##Actividades
 - LEDs y Lámparas
   - Throwie 
@@ -89,5 +95,14 @@ Pide los materiales necesarios y si asi lo requieres, ayuda a algún miembro.
   - Conexión de motores de corriente directa
     Conecta y controla algunos motores de corriente directa al arduino para
     controlar el brazo robot.
+- Proyectos de carpinteria
 
-      
+##Otras actividades
+https://www.thetech.org/about-us/tech-blog/techsaber-instructions
+https://www.thetech.org/MakerspaceTheTechBetaSamplerCookbook.pdf
+http://www.trashamps.com/product/mason-jar-speaker-kit/
+https://www.thetech.org/educator-resources/design-challenge-lessons
+http://makezine.com/projects/high-pressure-foam-rocket/
+http://makezine.com/2008/12/13/compressed-air-rocket/  tal vez usar un altímetro y llevar un record?
+http://duinokit.com/storefront/index.php?id_product=22&controller=product se supone que es para niños de 8-10 años. son misiones. con arduino.
+http://pockitlab.wix.com/pockitlab me compre una cartera de estas. tu eliges las piezas y la armas tu mismo. viene el hilo necesario y aguja.
