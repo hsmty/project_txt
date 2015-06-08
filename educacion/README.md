@@ -11,6 +11,12 @@ Pide los materiales necesarios y si asi lo requieres, ayuda a algún miembro.
 Juegos con instalaciones permanentes que permiten a los visitantes pasar un buen
 rato y comparar sus resultados con los de otros visitantes anteriores.
 Pueden darse premios como membresias semanales, descuentos de cursos, kits etc.
+
+- Matriz de LED con una animacion generada en código. Una raspi ejecuta y despliega
+  la galería completa una por una.
+- Un marco donde se coloquen las impresiones 3d con diseños de los visitantes.
+  Deben caber en un cierto espacio máximo. Imagino que una cuadrícula o un corcho.
+- 
  
 
 ##Actividades
